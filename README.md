@@ -1,2 +1,4 @@
 # robo_time
-Rover robot project code
+Rover project
+
+Bulding a robot that can autonomously move around using sound sensors
