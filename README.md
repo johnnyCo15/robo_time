@@ -1,4 +1,3 @@
 # robo_time
-Rover project
+Autonomous tank warfare
 
-Building a robot that can autonomously move around using sound sensors
