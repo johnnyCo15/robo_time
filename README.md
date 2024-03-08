@@ -1,3 +1,6 @@
 # robo_time
-Autonomous tank warfare
+Potential ideas: 
+- Autonomous tank warfare 
+- Anti Drone Detection 
+- 
 
