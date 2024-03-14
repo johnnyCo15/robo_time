@@ -4,3 +4,4 @@ Potential ideas:
 - Anti Drone 
 - 
 
+* Need hardware components to test * 
