@@ -1,7 +1,9 @@
 # robo_time
 Potential ideas: 
 - Autonomous tank 
-- Anti Drone 
+- Anti Drone System
 - 
 
-* Need hardware components to test * 
+* Prerequisites *
+- Hardware (drone/ tank)
+ 
